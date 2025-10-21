@@ -1,4 +1,4 @@
-# San-Calculator
+# San Calculator
 The useless calculator to calculate San in Windows and Linux (maybe android in the future), completely in one long Python script and compiled into one sad executable
 
 # Installation
