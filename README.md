@@ -11,7 +11,7 @@ Download the folder for your OS in this Google Drive: https://drive.google.com/d
 # FAQs
 Q: Will this marvalous calculator come to IOS or MacOS?
 
-A: No, because Apple stuff suck ass. I didn't wanna make a Windows version for the same reason but then I realized that the majority of computers run on Windows, so I just made one.
+A: No, because Apple sucks and it's hard to make. I didn't wanna make a Windows version for the same reason (without the hard to make part) but then I realized that the majority of computers run on Windows, so I just made one.
 
 
 Q: What is San?
