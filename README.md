@@ -1,12 +1,8 @@
 # San Calculator
 The useless calculator used to only calculate San in Windows, Linux, and now on android, completely made in two long Python scripts and compiled into one sad app
 
----
-
 # Installation
 Download the folder for your OS in this Google Drive: https://drive.google.com/drive/folders/1LCOi35gPiGhxmH5VIP-SM3z6Bqz-DwXe?usp=sharing
-
----
 
 # FAQs
 Q: Will this marvalous calculator come to IOS or MacOS?
