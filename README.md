@@ -2,7 +2,7 @@
 The useless calculator used to only calculate San in Windows, Linux, and now on android, completely made in Python and compiled into one sad app/executable
 
 ## Installation
-Download from [this Gooogle Drive folder](https://drive.google.com/drive/folders/1LCOi35gPiGhxmH5VIP-SM3z6Bqz-DwXe?usp=drive_link)
+Download from [this Google Drive folder](https://drive.google.com/drive/folders/1LCOi35gPiGhxmH5VIP-SM3z6Bqz-DwXe?usp=drive_link)
 
 ## FAQs
 > Q: What is San?
